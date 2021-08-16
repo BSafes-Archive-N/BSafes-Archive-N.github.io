@@ -99,4 +99,14 @@ This analysis also enables comparison of the input variables’ impacts on the L
 ![Figure 9. Effects of input variables on normalized national plug requirements (EVSE/PEV ratios).](https://statics.bsafes.com/images/papers/national-plug-in-electric-vehicles-infrastructure-analysis-fig-9.png)
 **Figure 9.** Effects of input variables on normalized national plug requirements (EVSE/PEV ratios).
 
+***
+
+#### Table of Contents
+{: .no_toc}
+
+<ul><li> <a href="/docs/N/national-plug-in-electric-vehicles-infrastructure-analysis-1/">1 Introduction</a></li><li> <a href="/docs/N/national-plug-in-electric-vehicles-infrastructure-analysis-2/">2 Existing Vehicle and Infrastructure Status</a></li><li> <a href="/docs/N/national-plug-in-electric-vehicles-infrastructure-analysis-3/">3 Non-Residential L2 and DCFC for Community Charging</a></li><li> <a href="/docs/N/national-plug-in-electric-vehicles-infrastructure-analysis-4/">4 DCFCs for Corridor Charging</a></li><li> <a href="/docs/N/national-plug-in-electric-vehicles-infrastructure-analysis-5/">5 Conclusions</a></li><li> <a href="/docs/N/national-plug-in-electric-vehicles-infrastructure-analysis-6/">References</a></li><li> <a href="/docs/N/national-plug-in-electric-vehicles-infrastructure-analysis-7/">Appendix A - Supplementary Statistics on Existing EVSE</a></li><li> <a href="/docs/N/national-plug-in-electric-vehicles-infrastructure-analysis-8/">Appendix B - EVSE/PEV Adjustment Factors to Account for Local Conditions</a></li><li> <a href="/docs/N/national-plug-in-electric-vehicles-infrastructure-analysis-9/">Appendix C - Central Scenario PEV/EVSE Estimates by State</a></li><li> <a href="/docs/N/national-plug-in-electric-vehicles-infrastructure-analysis-10/">Appendix D - Long-Distance Travel Frequency from the SHRP2 NDS</a></li></ul>
+
+***
+
+
 </div>
